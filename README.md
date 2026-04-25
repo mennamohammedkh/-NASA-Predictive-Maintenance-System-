@@ -357,7 +357,3 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 </div>
 =======
-# -NASA-Predictive-Maintenance-System-
-# ✈️ NASA Predictive Maintenance System 
-> 🚀 End-to-end predictive maintenance system for turbofan engines — detects failure 122 cycles early using LSTM, PCA, and explainable AI (XAI), deployed as a production-grade Streamlit dashboard.
->>>>>>> 3dd4b230cbe1d150b09485516e78d28bc9abb2fa
