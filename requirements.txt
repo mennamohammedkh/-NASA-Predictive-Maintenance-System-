@@ -1,1 +1,8 @@
-pandas numpy matplotlib seaborn scikit-learn torch jupyter joblib fastapi uvicorn streamlit shap
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+shap
