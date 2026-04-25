@@ -333,25 +333,28 @@ A full 17-section detailed technical report is included for in-depth analysis:
 Place the downloaded file at: `data/raw/CMap_FD001/train_FD001.txt`
 
 ---
-## 👩‍💻 Author
 
-| | |
-|---|---|
-| **Name** | Mennatullah Mohammed Kh |
-| **Title** | AI & Intelligent Systems Student — 3rd Year Computer Science - AI Engineer |
-| **LinkedIn** | [linkedin.com/in/menna-mohammed11](https://www.linkedin.com/in/menna-mohammed11/) |
-| **GitHub** | [github.com/mennamohammedkh](https://github.com/mennamohammedkh) |
-| **Status** | Open to AI/ML internship and junior data scientist opportunities |
+👩‍💻 **Author**
+
+**Mennatullah Mohammed Kh**  
+AI & Intelligent Systems Student — 3rd Year Computer Science - AI Engineer
+
+🔗 LinkedIn: [https://www.linkedin.com/in/menna-mohammed11/](https://www.linkedin.com/in/menna-mohammed11/)  
+🔗 GitHub: [http://github.com/mennamohammedkh](http://github.com/mennamohammedkh)
+
+**Open to AI/ML internship and junior data scientist opportunities.**
 
 ---
 
-## 📜 License
+## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-⭐ If this project was useful, consider giving it a star — it helps others find it.
+<div align="center">
+
+**If this project was useful, consider giving it a ⭐ — it helps others find it.**
 
 </div>
-
+=======
