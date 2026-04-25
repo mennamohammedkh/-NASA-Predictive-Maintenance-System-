@@ -17,12 +17,15 @@
 
 ## 📸 Dashboard Preview
 
-> *Screenshots from the live Streamlit dashboard — add after running the app.*
+## 🔧 Engine Status Panel
+Real-time monitoring of engine health indicators and anomaly detection outputs.
+
+## 🧠 XAI Sensor Analysis
+Heatmap visualization explaining which sensors contributed most to detected anomalies.
 
 | Engine Status Panel | XAI Sensor Analysis |
 |---|---|
 | ![Dashboard](assets/dashboard.png) | ![XAI Heatmap](assets/xai_error_heatmap.png) |
-
 ---
 
 ## 📋 Table of Contents
@@ -307,7 +310,7 @@ LinearRegression on the PCA latent space is a first-order approximation. A dedic
 
 A full 17-section detailed technical report is included for in-depth analysis:
 
-📥 Download: [Technical Report](reports/Predictive_Maintenance_Technical_Report.docx)
+📥 Download: [Technical Report](reports/Project_Report_final.docx)
 
 
 
