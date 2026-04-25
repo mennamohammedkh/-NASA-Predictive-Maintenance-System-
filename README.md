@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ✈️ NASA CMAPSS Turbofan Engine — Predictive Maintenance System
 
 > 🚀 **Detects engine failure 122 cycles early with explainable AI — deployed as a production-grade Streamlit dashboard.**
@@ -21,7 +21,7 @@
 
 | Engine Status Panel | XAI Sensor Analysis |
 |---|---|
-| ![Dashboard](assets/dashboard.png) | ![XAI Heatmap](assets/xai_heatmap.png) |
+| ![Dashboard](assets/dashboard.png) | ![XAI Heatmap](assets/xai_error_heatmap.png) |
 
 > 📌 **To add screenshots:** Run the app, take a screenshot of each tab, save them as `assets/dashboard.png` and `assets/xai_heatmap.png`, then push to GitHub.
 
@@ -116,9 +116,9 @@ Raw Data (20,631 rows × 26 cols)
   Percentile Thresholds — derived from healthy training distribution
   (95th → MONITOR · 98th → WARNING · 99.5th → URGENT)
         ↓
-  ┌──────────────────────────────────────────────────┐
+  ┌──────────────────────────────────────────────────────┐
   │  🟢 HEALTHY · 🟡 MONITOR · 🟠 WARNING · 🔴 URGENT  │
-  └──────────────────────────────────────────────────┘
+  └──────────────────────────────────────────────────────┘
         ↓
   XAI: Per-sensor MSE decomposition
   → s14 (+262%) · s9 (+193%) · s11 (+81%)
@@ -338,7 +338,7 @@ Place the downloaded file at: `data/raw/CMap_FD001/train_FD001.txt`
 **Mennatullah Mohammed Kh**
 AI & Intelligent Systems Student — 3rd Year Computer Science - AI Engineer 
 
-🔗 **LinkedIn:** linkedin.com/in/menna-mohammed11/
+🔗 **LinkedIn:** https://www.linkedin.com/in/menna-mohammed11/
 🔗 **GitHub:** http://github.com/mennamohammedkh
 
 > *Open to AI/ML internship and junior data scientist opportunities.*
