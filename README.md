@@ -17,13 +17,11 @@
 
 ## 📸 Dashboard Preview
 
-> *Screenshots from the live Streamlit dashboard — add your own after running the app.*
+> *Screenshots from the live Streamlit dashboard — add after running the app.*
 
 | Engine Status Panel | XAI Sensor Analysis |
 |---|---|
 | ![Dashboard](assets/dashboard.png) | ![XAI Heatmap](assets/xai_error_heatmap.png) |
-
-> 📌 **To add screenshots:** Run the app, take a screenshot of each tab, save them as `assets/dashboard.png` and `assets/xai_heatmap.png`, then push to GitHub.
 
 ---
 
