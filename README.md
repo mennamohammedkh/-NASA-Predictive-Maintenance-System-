@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✈️ NASA CMAPSS Turbofan Engine — Predictive Maintenance System
 
 > 🚀 **Detects engine failure 122 cycles early with explainable AI — deployed as a production-grade Streamlit dashboard.**
@@ -355,3 +356,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 **If this project was useful, consider giving it a ⭐ — it helps others find it.**
 
 </div>
+=======
+# -NASA-Predictive-Maintenance-System-
+# ✈️ NASA Predictive Maintenance System 
+> 🚀 End-to-end predictive maintenance system for turbofan engines — detects failure 122 cycles early using LSTM, PCA, and explainable AI (XAI), deployed as a production-grade Streamlit dashboard.
+>>>>>>> 3dd4b230cbe1d150b09485516e78d28bc9abb2fa
