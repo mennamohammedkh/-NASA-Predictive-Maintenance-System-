@@ -346,11 +346,21 @@ AI & Intelligent Systems Student — 3rd Year Computer Science - AI Engineer
 
 ---
 
+## 🏷️ Topics / Hashtags
+
+`LSTM Autoencoder` `Predictive Maintenance` `Anomaly Detection` `NASA CMAPSS` 
+`RUL Estimation` `Fuzzy Clustering` `XAI` `Time Series` `PyTorch` 
+`Streamlit` `Machine Learning` `Deep Learning`
+
+---
+
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
 ---
+
+
 
 <div align="center">
 
