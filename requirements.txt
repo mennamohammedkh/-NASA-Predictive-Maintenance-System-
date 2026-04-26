@@ -4,8 +4,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-torch
 joblib
-fastapi
-uvicorn
-shap
+torch
